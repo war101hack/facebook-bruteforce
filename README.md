@@ -6,15 +6,57 @@ Disclaimer:-you will be responsible for your all activities......and best of luc
 
 note:-Use python3 during execution of facebook.py
 
+<b>for linux user:-</b>
+
+copy paste all below commands(*_*)
+
 all steps:-
+
          (1) sudo apt update
+         
          (2) sudo apt install python3
+         
          (3) sudo apt install git
-         (4) git clone https://github.com/war101hack/facebook-bruteforce.git
-         (5) cd facebook-bruteforce
-         (6) python3 facebook.py 
+         
+         (4) pip install requests
+         
+         (5) pip install beautifulsoup4
+         
+         (6) git clone https://github.com/war101hack/facebook-bruteforce.git
+         
+         (7) cd facebook-bruteforce
+         
+         (8) chmod +x facebook.py
+         
+         (9) python3 facebook.py 
 
+<b>for termux user:-</b>
 
+copy paste all below commands(*_*)
+
+all steps:-
+
+        (1) apt-get update
+        
+        (2) apt-get upgrade
+        
+        (3) apt install python3
+        
+        (4) apt install git
+        
+        (5) pip install requests
+        
+        (6) pip install beautifulsoup4
+        
+        (7) git clone https://github.com/war101hack/facebook-bruteforce.git
+        
+        (8) cd facebook-bruteforce
+        
+        (9) chmod +x facebook.py
+        
+        (10) python3 facebook.py
+        
+        
 our 
 This script uses proxy which will hide your identity.
 
