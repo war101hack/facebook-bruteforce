@@ -1,21 +1,23 @@
 import requests
 import random
 from bs4 import BeautifulSoup
+from colorama import Fore, Back, Style
 
-print("                                                  ********************************                                                 ")
+print(Fore.GREEN+"                                       ********************************                                                 ")
 print("                                                  *                              *                                                 ")
 print("                                                  *          X-DAMAGE            *                                                 ")
 print("                                                  *                              *                                                 ")
 print("                                                  ********************************                                                 ")
 print("                                           ")
-print("-------------------------------------------------------YOUR CODE STARTS------------------------------------------------------------")
+print(Fore.RED+"-------------------------------------------------------YOUR HACK IS BEGIN------------------------------------------------------------")
 print("-----------------------------------------------------------------------------------------------------------------------------------")
 url='https://www.facebook.com/login.php'
 #url=input("please enter here your target url :--")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 #print("-----------------------------------------------------------------------------------------------------------------------------------")
-username=input("please enter your email or username :--")
+username=input(Back.GREEN +"please enter your email or username :--")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+print(Style.RESET_ALL)
 h = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
 }
