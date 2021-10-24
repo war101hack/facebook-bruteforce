@@ -22,13 +22,15 @@ all steps:-
          
          (5) pip install beautifulsoup4
          
-         (6) git clone https://github.com/war101hack/facebook-bruteforce.git
+         (6) pip install colorama
          
-         (7) cd facebook-bruteforce
+         (8) git clone https://github.com/war101hack/facebook-bruteforce.git
          
-         (8) chmod +x facebook.py
+         (9) cd facebook-bruteforce
          
-         (9) python3 facebook.py 
+         (10) chmod +x facebook.py
+         
+         (11) python3 facebook.py 
 
 <b>for termux user:-</b>
 
@@ -48,13 +50,15 @@ all steps:-
         
         (6) pip install beautifulsoup4
         
-        (7) git clone https://github.com/war101hack/facebook-bruteforce.git
+        (7) pip install colorama
         
-        (8) cd facebook-bruteforce
+        (8) git clone https://github.com/war101hack/facebook-bruteforce.git
         
-        (9) chmod +x facebook.py
+        (9) cd facebook-bruteforce
         
-        (10) python3 facebook.py
+        (10) chmod +x facebook.py
+        
+        (11) python3 facebook.py
         
         
 our 
