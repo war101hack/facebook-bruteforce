@@ -6,7 +6,7 @@ Disclaimer:-you will be responsible for your all activities......and best of luc
 
 note:-Use python3 during execution of facebook.py
 
-<b>for linux user:-</b>
+<h>for linux user:-</h>
 
 copy paste all below commands(*_*)
 
