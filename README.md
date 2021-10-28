@@ -6,7 +6,7 @@ Disclaimer:-You will be responsible for your all activities......and best of luc
 
 note:-Use python3 during execution of facebook.py
 
-#For Linux user:-
+<h>For Linux user:-</h>
 
 Copy paste all below commands(*_*)
 Steps:-
@@ -31,7 +31,7 @@ Steps:-
          >> python3 facebook.py 
 ```                                                                        
 
-#For Termux users:-
+<h>For Termux users:-</h>
 
 Copy paste all below commands(*_*)
 
