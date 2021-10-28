@@ -6,11 +6,10 @@ Disclaimer:-You will be responsible for your all activities......and best of luc
 
 note:-Use python3 during execution of facebook.py
 
-##For Linux user:-
+#For Linux user:-
 
 Copy paste all below commands(*_*)
-
-##All steps:-
+Steps:-
 ```
 
          >> sudo apt update
@@ -32,11 +31,11 @@ Copy paste all below commands(*_*)
          >> python3 facebook.py 
 ```                                                                        
 
-##For Termux users:-
+#For Termux users:-
 
 Copy paste all below commands(*_*)
 
-##All steps:-
+Steps:-
 ```
 
         >> apt-get update
