@@ -10,7 +10,7 @@ note:-Use python3 during execution of facebook.py
 
 Copy paste all below commands(*_*)
 
-###All steps:-
+##All steps:-
 ```
 
          >> sudo apt update
@@ -36,7 +36,7 @@ Copy paste all below commands(*_*)
 
 Copy paste all below commands(*_*)
 
-###All steps:-
+##All steps:-
 ```
 
         >> apt-get update
